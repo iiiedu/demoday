@@ -6,5 +6,11 @@
 | 班級名稱                          | 預定結訓日期   | 聯絡窗口  |
 | -------------------------------- |:-------------:| -----|
 | 微軟C#應用程式設計師就業養成班      | 2019/08/15 | [劉小姐](mailto:fenganne@iii.org.tw) (02)6631-6587 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Java跨平台程式設計就業養成班      | 2019/08/02 | [羅小姐](mailto:showyann@iii.org.tw) (02)6631-6586 |
+| Data Engineer 巨量資料分析就業養成班      | 2019/06/26 | [賴小姐](mailto:wl9208@iii.org.tw) (02)6631-6593 |
+| [雲端智慧網路工程師就業養成班](http://taipei.iiiedu.org.tw/training/sese.html)      | 2019/08/15 | [劉小姐](mailto:fenganne@iii.org.tw) (02)6631-6587 |
+| 微軟C#應用程式設計師就業養成班      | 2019/08/15 | [劉小姐](mailto:fenganne@iii.org.tw) (02)6631-6587 |
+| 微軟C#應用程式設計師就業養成班      | 2019/08/15 | [劉小姐](mailto:fenganne@iii.org.tw) (02)6631-6587 |
+| 微軟C#應用程式設計師就業養成班      | 2019/08/15 | [劉小姐](mailto:fenganne@iii.org.tw) (02)6631-6587 |
+| 微軟C#應用程式設計師就業養成班      | 2019/08/15 | [劉小姐](mailto:fenganne@iii.org.tw) (02)6631-6587 |
+| 微軟C#應用程式設計師就業養成班      | 2019/08/15 | [劉小姐](mailto:fenganne@iii.org.tw) (02)6631-6587 |
