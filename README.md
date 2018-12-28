@@ -5,6 +5,6 @@
 ## 近期場次
 | 班級名稱       | 預定結訓日期   | 聯絡窗口  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| 微軟C#應用程式設計師就業養成班      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
